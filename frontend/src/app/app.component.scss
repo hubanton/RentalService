@@ -1,0 +1,12 @@
+mat-toolbar {
+  margin-bottom: 3vh;
+
+  .spacer {
+    flex: 1 1 auto;
+  }
+
+  .routes {
+    display: flex;
+    gap: 20px;
+  }
+}
