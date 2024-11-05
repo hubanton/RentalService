@@ -4,7 +4,7 @@ This project is a car rental service application with a frontend built using Ang
 
 ## Getting Started
 
-Follow the steps below to set up and run the application on your local machine for development and testing purposes.
+Follow the steps below to set up and run the application on your local machine.
 
 ## Prerequisites
 
